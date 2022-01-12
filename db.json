@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Jesús Actualizado",
+      "empresa": "RC Programing",
+      "email": "correo@correo.com",
+      "telefono": "7714175156",
+      "notas": "Quiere comprar el nuevo producto",
+      "id": 1
+    },
+    {
+      "nombre": "Karen",
+      "empresa": "Caren diseño",
+      "email": "correo2@correo.com",
+      "telefono": "7714175152",
+      "notas": "Karen esta cotizando koner",
+      "id": 2
+    }
+  ]
+}
